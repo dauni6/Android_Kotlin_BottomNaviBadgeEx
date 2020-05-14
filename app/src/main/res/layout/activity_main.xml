@@ -19,7 +19,7 @@
             app:itemIconTint="@color/white"
             app:labelVisibilityMode="unlabeled"
             app:menu="@menu/bottom_navigation_menu"/>
-         <!-- labelVisibilityMode를 하면 바텀네비게이션뷰 아래 글자를 숨길 수 있음 -->
+         <!-- labelVisibilityMode를 하면 바텀네비게이션뷰 아래 글자(Label)를 숨길 수 있음 -->
 
     </RelativeLayout>
 
